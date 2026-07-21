@@ -16,4 +16,4 @@ Machine learning engineer building **production multi-agent LLM systems** — ag
 
 ## Find me
 
-🔗 [askyao.ai](https://askyao.ai) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE) · ✉️ gongyn3@gmail.com
+🔗 [askyao.ai](https://askyao.ai) · 💼 [LinkedIn](https://www.linkedin.com/in/yanan-gong-yg/) · ✉️ gongyn3@gmail.com
